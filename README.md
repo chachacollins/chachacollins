@@ -1,38 +1,14 @@
-```
-                                                .""--.. __
-                          _                     []       ``-.._
-                       .'` `'.                  ||__           `-._
-                      /    ,-.\                 ||_ ```---..__     `-.
-                     /    /:::\\               /|//}          ``--._  `.
-                     |    |:::||              |////}                `-. \
-                     |    |:::||         _   //'///                    `.\
-                     |    |:::||     _.-`\`\//  |'                       `|
-                     /    |:::|/  .-`     \//\  ||
-                    /`    |:::|`-`        |/  \ ||
-                  /`  |   |'' ||           \   |||
-                /`    \   |   ||            |  /||
-              |`       |  |   |)            \ | ||
-             |          \ |   /      ,.__.   \| ||
-             /           `         /`     `\  | ||
-            |                     /         \ / ||
-            |                     |         |/  ||
-            /         /           |         (   ||
-           /          .           /          )  ||
-          |            \          |     ________||
-         /             |          /     `-------.|
-        |\            /          |              ||
-        \/`-._       |           /              ||
-         //   `.    /`           |              ||
-        //`.    `. |             \              ||
-       ///\ `-._  )/             |              ||
-      //// )   .(/               |              ||
-      ||||   ,'` )               /              //
-      ||||  /                    /             ||
-      `\\` /`                    |             //
-          |`                     \            ||
-         /                        |           //
-       /`                          \         //
-     /`                            |        ||
-     `-.___,-.      .-.        ___,'        (/
-              `---'`   `'----'`
-```
+ <div align="center">
+<br>
+<samp>
+  comp sci student, software eng, learner, solver, rustacean<br>
+  systems programming , zig , rust, go , c, foss, linux , vim<br>
+  trying my best to learn more about computers :)
+</samp>
+<br>---<br>
+<sup>
+  <q><i><b>
+  Suddenly you become euphoric, docile. You accept your fate. It's all right here. ... . Blank faces, calm as Hindu cows
+  </b></i></q>
+</sup>
+</div>
