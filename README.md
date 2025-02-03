@@ -1,7 +1,7 @@
  <div align="center">
 <br>
 <samp>
-  comp sci student, software eng, learner, solver, rustacean<br>
+  comp sci student, software eng, learner, solver, breaker & fixer<br>
   systems programming , zig , rust, go , c, foss, linux , vim<br>
   trying my best to learn more about computers :)
 </samp>
