@@ -8,14 +8,13 @@
 じしˍ,)ノ
 
 
-  comp sci student, software eng, learner, solver, breaker & fixer<br>
-  systems programming , zig , rust, go , c, foss, linux , vim<br>
-  trying my best to learn more about computers :)
+  comp sci student and low level programming enthusiast. I use neovim btw :D
 </samp>
+<br>
 <br>---<br>
 <sup>
-  <q><i><b>
-  Suddenly you become euphoric, docile. You accept your fate. It's all right here...  Blank faces, calm as Hindu cows
-  </b></i></q>
+  <q><b>
+  Never trust a computer you can’t throw out a window.
+  </b></q>
 </sup>
 </div>
